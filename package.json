@@ -1,0 +1,14 @@
+{
+	"name": "@hshinde/tiny",
+	"version": "0.1.2",
+	"description": "Removes all spaces from a string",
+	"license": "MIT",
+	"repository": "HemantShinde/tiny",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"npm",
+		"package",
+		"hshinde"
+	]
+}
